@@ -9,14 +9,22 @@ Digit MNIST
 https://keras.io/api/datasets/mnist/ (However, this is included in Keras and downloads within the code) 
 
 ### Requirements: 
-> Tensorflow 2 
-> Numpy
-> Pandas
-> CV2
-> Matplotlib
-> Pydot
-> Seaborn
-> A computer webcam (build in) 
+> Tensorflow 2.0 
+
+> Numpy 
+
+> Pandas 
+
+> CV2 
+
+> Matplotlib 
+
+> Pydot 
+
+> Seaborn 
+
+> A computer webcam (build in)  
+
 
 
 
