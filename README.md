@@ -1,6 +1,8 @@
 # CNN-Sign-ASL-fingerspelling-classifier
 
-This is a convolutional neural network, which classifies the letters of the ASL fingerspelling alphabet (- J and Z, which require movement) from the Kaggle Sign Language MNIST dataset. Additionally an openCV feature is added, where one can sign the letters in front of the webcam in the white frame of the video feed. The classifyer will try to predict your sign. It works best on a white even background. 
+The "CNN for the american Manual Alphabet.ipynb" is a convolutional neural network, which classifies the letters of the ASL fingerspelling alphabet (- J and Z, which require movement) from the Kaggle Sign Language MNIST dataset. Additionally an openCV feature is added, where one can sign the letters in front of the webcam in the white frame of the video feed. The classifyer will try to predict your sign. It works best on a white even background. 
+
+
 
 This was build as part of an exam in the Data Science course for the Cognitive Science master at Aarhus University. 
 
