@@ -1,5 +1,8 @@
 # CNN-Sign-ASL-fingerspelling-classifier
 
+This is a convolutional neural network, which classifies the letters of the ASL fingerspelling alphabet (- J and Z, which require movement) from the Kaggle Sign Language MNIST dataset. Additionally an openCV feature is added, where one can sign the letters in front of the webcam in the white frame of the video feed. The classifyer will try to predict your sign. It works best on a white even background. 
+
+
 ### Data for the CNN can be downloaded here: 
 
 Sign language MNIST 
@@ -10,19 +13,12 @@ https://keras.io/api/datasets/mnist/ (However, this is included in Keras and dow
 
 ### Requirements: 
 > Tensorflow 2.0 
-
 > Numpy 
-
 > Pandas 
-
 > CV2 
-
 > Matplotlib 
-
 > Pydot 
-
 > Seaborn 
-
 > A computer webcam (build in)  
 
 
