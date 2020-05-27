@@ -1,6 +1,6 @@
 # CNN-Sign-ASL-fingerspelling-classifier
 
-####Data for the CNN can be downloaded here: 
+### Data for the CNN can be downloaded here: 
 
 Sign language MNIST 
 https://www.kaggle.com/datamunge/sign-language-mnist?select=amer_sign3.png (Files are too big to upload here)
@@ -8,7 +8,7 @@ https://www.kaggle.com/datamunge/sign-language-mnist?select=amer_sign3.png (File
 Digit MNIST 
 https://keras.io/api/datasets/mnist/ (However, this is included in Keras and downloads within the code) 
 
-####Requirements: 
+### Requirements: 
 > Tensorflow 2 
 > Numpy
 > Pandas
@@ -20,7 +20,7 @@ https://keras.io/api/datasets/mnist/ (However, this is included in Keras and dow
 
 
 
-####Code is written with assistance from the follwing pages: 
+#### Code is written with assistance from the follwing pages: 
 
 > Digit MNIST with keras 
 > https://nextjournal.com/gkoehler/digit-recognition-with-keras
